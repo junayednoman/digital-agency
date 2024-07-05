@@ -29,7 +29,7 @@ To view or modify the website locally, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd digital-agency-website
+   cd digital-agency
 
 ## Usage 🚀
 Open ```index.html``` in your preferred web browser to view the website.
