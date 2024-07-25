@@ -2,7 +2,7 @@
 
 Welcome to the Digital Agency website repository! This project is a showcase of my skills as a web developer, featuring a clean, modern, and fully responsive design built using HTML and CSS.
 
-[Live View](https://go-sportify.vercel.app)
+[Live View](https://junayednoman.github.io/digital-agency)
 
 ## Introduction 📝
 
